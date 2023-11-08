@@ -6,7 +6,6 @@ import Docs from '@/components/Docs';
 import { currentYear, yearsPagination } from '@/utils';
 import { Suspense } from 'react';
 
-export const dynamic = 'force-dynamic';
 
 async function getResults(requestParams = {}) {
   const {

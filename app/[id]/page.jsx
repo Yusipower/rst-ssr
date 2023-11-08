@@ -1,4 +1,4 @@
-export const dynamic = "force-dynamic";
+
 
 import Container from "@/components/Container";
 import Hero from "@/components/Hero";
