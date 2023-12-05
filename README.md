@@ -13,7 +13,7 @@
  - **React**
  - **NextJS**
  - **Ant Design**
- - **Tailwind CSS*
+ - **Tailwind CSS**
  
  ### Скриншоты:
  **Прототип: React!!**
